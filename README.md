@@ -1,4 +1,4 @@
-SWiM - a semi-Lagrangian, semi-implicit shallow water model
+magsph - Magneto Smooth Hydrodynamics Code
 ===========================================================
 
 (C) 2007 by Christian Lerrahn
